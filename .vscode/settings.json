@@ -1,3 +1,5 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "appService.defaultWebAppToDeploy": "/subscriptions/41000d7b-45d9-4f30-aa8c-1f1b3e657eab/microsoft.web/sites/subscriptions/41000d7b-45d9-4f30-aa8c-1f1b3e657eab/resourceGroups/web-apps/providers/Microsoft.Web/sites/tvl-v1",
+    "appService.deploySubpath": "."
 }
